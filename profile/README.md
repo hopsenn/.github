@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://avatars.githubusercontent.com/u/125822690?s=400&u=d935b9bdb4b74b61fc553a85cc071c27e22e2cc9&v=4" alt="logo" width="50%"></h3>
+<h3 align="center"><img src="https://avatars.githubusercontent.com/u/125822690?s=400&u=d935b9bdb4b74b61fc553a85cc071c27e22e2cc9&v=4" alt="logo" width="10%"></h3>
 
 <h3 align="center"><strong>Checkmate C2</strong></h4>
 
