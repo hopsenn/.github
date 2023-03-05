@@ -3,6 +3,15 @@
 <h3 align="center"><strong>Checkmate C2</strong></h4>
 
 <p align="center">
+    <a href="https://entysec.com">
+        <img src="https://img.shields.io/badge/developer-EntySec-3572a5.svg">
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Release%20Date-15%20March%202023-3572a5.svg">
+    </a>
+</p>
+
+<p align="center">
     <br>Checkmate is an advanced powerful web platform for configuring and managing C2 servers.
     <br>Checkmate uses its own native payloads, has own evasion techniques and much more!
     <br>
