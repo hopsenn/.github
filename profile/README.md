@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/developer-EntySec-3572a5.svg">
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/release-15%20March%202023-cc8899.svg">
+        <img src="https://img.shields.io/badge/release-1%20April%202023-cc8899.svg">
     </a>
 </p>
 
