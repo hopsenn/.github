@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://bsfw.org/static/assets/img/logo.png" alt="logo" width="25%"></h3>
+<h3 align="center"><img src="https://thebigsoft.com/static/assets/img/logo.png" alt="logo" width="25%"></h3>
 
 <h3 align="center"><strong>Connecting people worldwide</strong></h4>
 
